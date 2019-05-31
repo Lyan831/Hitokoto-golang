@@ -1,0 +1,8 @@
+{
+    "ListenPort": 8080,
+    "MysqlAddr": "localhost",
+    "MysqlPort": 3306,
+    "DbName": "test",
+    "User": "lyan",
+    "Password": "Lyan@831"
+}
